@@ -1,2 +1,2 @@
 # CocosStudy
-noob'ss first repo
+简单的尝试了官方教程.
